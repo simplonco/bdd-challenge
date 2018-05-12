@@ -39,3 +39,26 @@ Points d'attention :
 - Définir les besoins pour votre projet.
 - Créer vos schémas/tables de données.
 
+
+## Ressources
+
+SQL :
+- MySQL Doc & CLI tools : 
+https://dev.mysql.com/doc/refman/8.0/en/mysql.html
+https://dev.mysql.com/doc/
+- Mamp/Lamp/Wamp servers :
+https://www.mamp.info/en/
+https://doc.ubuntu-fr.org/lamp
+http://www.wampserver.com/
+- PDO pour PHP :
+http://php.net/manual/fr/book.pdo.php
+- PDO pour node :
+http://knexjs.org/
+- Cardinalités :
+https://docs.google.com/document/d/1i1pH6iabvIdakbQw4Cb2tIPK52R7SK6CbBzGMOjBrWA/edit?usp=sharing
+
+noSQL :
+- MongoDB/Mongoose docs :
+https://docs.mongodb.com/manual/introduction/
+http://mongoosejs.com/docs/models.html
+
